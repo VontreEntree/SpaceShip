@@ -47,8 +47,8 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1467319191586">
-        <mark key="[" line="16" column="9" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1467493127067">
+        <mark key="[" line="20" column="0" />
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
@@ -81,10 +81,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1467492377215">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1467493235525">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -159,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@override</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>@override</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -171,31 +171,31 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text>@override</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>MovementValidation</text>
+        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>@override</text>
       </register>
       <register name="4" type="4">
-        <text>}while(sl.milesFS != 0);</text>
+        <text>MovementValidation</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGZvcihpbnQgaSA9IDA7IGkgIT1zbC5taWxlRlMgIT0gMDsgaSkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot; + milesFS</text>
-      </register>
-      <register name="7" type="4">
-        <text>course to the left b</text>
-      </register>
-      <register name="8" type="4">
         <text />
       </register>
+      <register name="6" type="4">
+        <text>}while(sl.milesFS != 0);</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGZvcihpbnQgaSA9IDA7IGkgIT1zbC5taWxlRlMgIT0gMDsgaSkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot; + milesFS</text>
+      </register>
       <register name="9" type="4">
-        <text>yawD</text>
+        <text>course to the left b</text>
       </register>
     </registers>
     <search>
