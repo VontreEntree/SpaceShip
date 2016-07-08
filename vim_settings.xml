@@ -5,10 +5,10 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1467320183765">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1467495876533">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
@@ -25,11 +25,11 @@
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467318760506">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467494977236">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="165" column="50" />
-        <mark key="]" line="165" column="50" />
-        <mark key="." line="165" column="50" />
+        <mark key="[" line="125" column="12" />
+        <mark key="]" line="125" column="12" />
+        <mark key="." line="125" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/com/company/Main.java" timestamp="1456417929106">
         <mark key="[" line="1" column="0" />
@@ -38,6 +38,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Node.java" timestamp="1457459593394">
         <mark key="[" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Main.java" timestamp="1467495737721">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/Lab3-1/src/com/company/Main.java" timestamp="1457459129079">
         <mark key="[" line="5" column="26" />
@@ -159,10 +162,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -171,31 +174,31 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>@override</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>MovementValidation</text>
+        <text>void</text>
       </register>
       <register name="5" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text>}while(sl.milesFS != 0);</text>
+        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGZvcihpbnQgaSA9IDA7IGkgIT1zbC5taWxlRlMgIT0gMDsgaSkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+        <text>@override</text>
       </register>
       <register name="8" type="4">
-        <text>&quot; + milesFS</text>
+        <text>MovementValidation</text>
       </register>
       <register name="9" type="4">
-        <text>course to the left b</text>
+        <text />
       </register>
     </registers>
     <search>
