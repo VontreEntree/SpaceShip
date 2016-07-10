@@ -5,10 +5,9 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1468124645570">
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1468181784513">
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
@@ -84,10 +83,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468180507090">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468182689998">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -162,7 +161,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
@@ -174,31 +173,31 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICB2b2lk</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
-      </register>
       <register name="5" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="6" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>void</text>
-      </register>
-      <register name="8" type="4">
         <text />
       </register>
+      <register name="8" type="4">
+        <text>void</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
+        <text />
       </register>
     </registers>
     <search>
