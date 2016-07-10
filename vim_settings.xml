@@ -84,10 +84,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1467493235525">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468180507090">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -161,11 +161,11 @@
       <jump line="24" column="13" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
+        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -173,32 +173,32 @@
       <register name="0" type="4">
         <text>course</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
+        <text encoding="base64">CiAgICB2b2lk</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="5" type="4">
-        <text>void</text>
+        <text />
       </register>
       <register name="6" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
+        <text>void</text>
       </register>
       <register name="8" type="4">
-        <text>@override</text>
+        <text />
       </register>
       <register name="9" type="4">
-        <text>MovementValidation</text>
+        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiUHJlc3MgMSB0byBhZGp1c3Qgc3BlZWRcbjIgdG8gYWRqdXN0ICIpOw==</text>
       </register>
     </registers>
     <search>
