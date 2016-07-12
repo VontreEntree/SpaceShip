@@ -83,10 +83,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468265757302">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="66" column="11" />
-        <mark key="." line="66" column="11" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468338583280">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -161,7 +161,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
+        <text>vec.addElement(spd.mph);
+        vec.addElement(acl.accelCount);
+        vec.addElement(starloc.star);
+        vec.addElement(starloc.milesFS);
+        vec.addElement(zero_g.distanceFromHome);</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
@@ -173,31 +177,35 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
+        <text>vec.addElement(spd.mph);
+        vec.addElement(acl.accelCount);
+        vec.addElement(starloc.star);
+        vec.addElement(starloc.milesFS);
+        vec.addElement(zero_g.distanceFromHome);</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICB2b2lk</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
-      </register>
       <register name="6" type="4">
-        <text />
+        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
       </register>
       <register name="7" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>void</text>
+        <text />
       </register>
       <register name="9" type="4">
-        <text />
+        <text>void</text>
       </register>
     </registers>
     <search>
