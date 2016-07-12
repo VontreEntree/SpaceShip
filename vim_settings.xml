@@ -5,18 +5,19 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1468181784513">
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/ZeroGCompass.java" timestamp="1468341614481">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" timestamp="1467306566659">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" timestamp="1468341307478">
         <mark key="'" line="28" column="5" />
-        <mark key="[" line="38" column="53" />
-        <mark key="]" line="38" column="53" />
-        <mark key="." line="38" column="53" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1457035848648">
         <mark key="[" line="0" column="0" />
@@ -24,11 +25,11 @@
       <file name="$USER_HOME$/IdeaProjects/3.12/src/SLList.java" timestamp="1455656069394">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1467494977236">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1468341423395">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="125" column="12" />
-        <mark key="]" line="125" column="12" />
-        <mark key="." line="125" column="12" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3.12/src/com/company/Main.java" timestamp="1456417929106">
         <mark key="[" line="1" column="0" />
@@ -38,8 +39,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Node.java" timestamp="1457459593394">
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Main.java" timestamp="1467495737721">
-        <mark key="[" line="5" column="26" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Main.java" timestamp="1468341694310">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/Lab3-1/src/com/company/Main.java" timestamp="1457459129079">
         <mark key="[" line="5" column="26" />
@@ -49,10 +52,10 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1468340198315">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1468341218177">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/BST.java" timestamp="1457460596394">
         <mark key="[" line="12" column="10" />
@@ -83,7 +86,7 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468339530989">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468340534674">
         <mark key="'" line="88" column="33" />
         <mark key="[" line="92" column="28" />
         <mark key="]" line="92" column="28" />
@@ -94,17 +97,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Speed.java" timestamp="1467304052879">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Speed.java" timestamp="1468341278039">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
         <mark key="^" line="14" column="7" />
-        <mark key="." line="12" column="4" />
+        <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" timestamp="1467318624860">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" timestamp="1468341868444">
         <mark key="'" line="42" column="47" />
-        <mark key="[" line="75" column="57" />
-        <mark key="]" line="75" column="57" />
-        <mark key="." line="75" column="57" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/Ex3_12/src/com/sb/se330/Main.java" timestamp="1456419948731">
         <mark key="[" line="18" column="22" />
@@ -163,10 +166,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -175,31 +178,31 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text />
+        <text encoding="base64">ZXh0ZW5kcyBTZW5zb3Ig</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IFRocmVhZC4=</text>
+        <text encoding="base64">IGV4dGVuZHMgTW92ZW1lbnQg</text>
       </register>
       <register name="4" type="4">
-        <text>p(</text>
+        <text>extends Movement</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text encoding="base64">ZXh0ZW5kcyBNb3ZlbWVudCA=</text>
       </register>
       <register name="6" type="4">
-        <text>Acceleration</text>
+        <text>extends Sensor</text>
       </register>
       <register name="7" type="4">
-        <text>Change in</text>
+        <text>ation</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFjY2VsZXJhdGlvbjogIiArIHZlYy5nZXQoNikpOwo=</text>
+      <register name="8" type="4">
+        <text>StarLoc</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>inhabitants fierce</text>
       </register>
     </registers>
     <search>
