@@ -6,14 +6,14 @@ import java.util.Random;
 /**
  * Created by Vontre on 6/29/2016.
  */
-public class StarLoc extends ZeroGCompass{
+public class StarLoc {
 
     Random rnd = new Random();
 
-    double milesFS;
-    double maxSunTemp;
-    double minSunTemp;
-    double sunTemp;
+    double milesFS = 0;
+    double maxSunTemp = 0;
+    double minSunTemp = 0;
+    double sunTemp = 0;
     boolean isThreat;
 
 String[] starNames = {"Aludra", "Merope", "Pherkad", "Zavijava", "Terebellum"};
@@ -63,6 +63,8 @@ String[] starNames = {"Aludra", "Merope", "Pherkad", "Zavijava", "Terebellum"};
               milesFS = milesFS / 2;
               break;
       }
+
+        DangerMessage();
 return milesFS;
     }
 
@@ -175,7 +177,7 @@ return milesFS;
         if(milesFS == 0)
         {
             System.out.println("Current Distance: Null");
-            System.out.println(star + "'s intense gravitation pulled you in until you collided with it");
+            System.out.println(star + "'s intense gravity pulled you in until you collided with it");
             SunTempCalc();
         }
 

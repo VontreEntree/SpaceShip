@@ -5,14 +5,14 @@ import java.util.Scanner;
 /**
  * Created by Vontre on 6/29/2016.
  */
-public class GyroScope extends Movement {
+public class GyroScope{
     Scanner reader = new Scanner(System.in);
 
-    String roll;
+    String roll = "-";
     double rollDegrees = 0;
-    String pitch;
+    String pitch = "-";
     double pitchDegrees = 0;
-    String yaw;
+    String yaw = "-";
     double yawDegrees = 0;
 
     String direct = "";

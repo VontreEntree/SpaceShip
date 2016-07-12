@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Vontre on 6/29/2016.
  */
-public class Speed extends Movement {
+public class Speed {
     //Scanner reader = new Scanner(System.in);
 
     double mph = 0;

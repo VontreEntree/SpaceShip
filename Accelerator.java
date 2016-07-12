@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Vontre on 6/29/2016.
  */
-public class Accelerator extends Movement{
+public class Accelerator {
     Scanner reader = new Scanner(System.in);
 
     int accelCount = 0;
