@@ -49,10 +49,10 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1467493127067">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Movement.java" timestamp="1468340198315">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/BST.java" timestamp="1457460596394">
         <mark key="[" line="12" column="10" />
@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468338583280">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468339530989">
+        <mark key="'" line="88" column="33" />
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="92" column="28" />
+        <mark key="." line="92" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -158,17 +159,14 @@
       <jump line="54" column="55" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" />
       <jump line="41" column="47" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" />
       <jump line="24" column="13" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" />
+      <jump line="86" column="33" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vec.addElement(spd.mph);
-        vec.addElement(acl.accelCount);
-        vec.addElement(starloc.star);
-        vec.addElement(starloc.milesFS);
-        vec.addElement(zero_g.distanceFromHome);</text>
+        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -177,35 +175,31 @@
         <text>course</text>
       </register>
       <register name="1" type="4">
-        <text>vec.addElement(spd.mph);
-        vec.addElement(acl.accelCount);
-        vec.addElement(starloc.star);
-        vec.addElement(starloc.milesFS);
-        vec.addElement(zero_g.distanceFromHome);</text>
+        <text encoding="base64">IFRocmVhZC5zbGVlcCgxMDAwLCAxMDApOw==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmKHZlYy5lbGVtZW50cygpKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHZlY3RvciBzZW5zb3JUeXBlczs=</text>
+        <text encoding="base64">IFRocmVhZC4=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICB2b2lk</text>
+        <text>p(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmKGdzLmRpcmVjdCA9PSAiWWF3IiAmJiBncy55YXcgPT0gIlJpZ2h0IikK</text>
+      <register name="5" type="4">
+        <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Z3MueWF3RGVncmVlcyA9PiA5MA==</text>
+        <text>Acceleration</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>Change in</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFjY2VsZXJhdGlvbjogIiArIHZlYy5nZXQoNikpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>void</text>
+        <text />
       </register>
     </registers>
     <search>
