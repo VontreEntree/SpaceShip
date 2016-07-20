@@ -68,9 +68,8 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Mary.java" timestamp="1468965932368">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Mary.java" timestamp="1468991560103">
         <mark key="'" line="60" column="32" />
-        <mark key="[" line="81" column="38" />
         <mark key="^" line="85" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Main.java" timestamp="1457459478347">
@@ -95,9 +94,8 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/SE330Lab3-01-master/src/SE330/BinaryTree.java" timestamp="1457626806997">
         <mark key="[" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Jack.java" timestamp="1468965880399">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Jack.java" timestamp="1468991657009">
         <mark key="'" line="56" column="38" />
-        <mark key="[" line="84" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1457629257642">
         <mark key="[" line="0" column="0" />
@@ -106,9 +104,8 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Elizabeth.java" timestamp="1468990796335">
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Elizabeth.java" timestamp="1468991573620">
         <mark key="'" line="56" column="81" />
-        <mark key="[" line="78" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Paul.java" timestamp="1468965908172">
         <mark key="[" line="78" column="39" />
@@ -203,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFN5c3RlbS5leGl0KDApOw==</text>
+        <text>chore = 0;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFN5c3RlbS5leGl0KDApOw==</text>
+        <text>chore = 0;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -215,22 +212,22 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IFN5c3RlbS5leGl0KDApOw==</text>
+        <text>chore = 0;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmKGxhY2hvcmUgPT0gMikKICB7</text>
+        <text>chore = 0;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYoZXhjbHVzaXZlQ291bnQgPiAxKQogIHsKICAgY2hvcmUgPSBybmQubmV4dEludCgpICUgNSArIDE7CiAgfQ==</text>
+        <text encoding="base64">IGNob3JlID0gMDs=</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text encoding="base64">IFN5c3RlbS5leGl0KDApOw==</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text encoding="base64">IGlmKGxhY2hvcmUgPT0gMikKICB7</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text encoding="base64">aWYoZXhjbHVzaXZlQ291bnQgPiAxKQogIHsKICAgY2hvcmUgPSBybmQubmV4dEludCgpICUgNSArIDE7CiAgfQ==</text>
       </register>
       <register name="7" type="4">
         <text />
