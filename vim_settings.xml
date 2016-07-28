@@ -160,8 +160,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/SE330Lab3-01-master/src/SE330/Text.txt" timestamp="1457627460177">
         <mark key="[" line="0" column="100" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Lab 6/src/com/company/Microwave.java" timestamp="1469718920714">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/Desktop/tre/Lab 6/src/com/company/Microwave.java" timestamp="1469720969644">
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="106" column="16" />
+        <mark key="." line="106" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1468951145839">
         <mark key="[" line="0" column="0" />
@@ -203,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chore = 0;</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>chore = 0;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -215,31 +217,34 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text>chore = 0;</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>chore = 0;</text>
+        <text>turnOffLight();
+                clearTimer();</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGNob3JlID0gMDs=</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IFN5c3RlbS5leGl0KDApOw==</text>
+        <text>turnOnLight();</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGlmKGxhY2hvcmUgPT0gMikKICB7</text>
+        <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYoZXhjbHVzaXZlQ291bnQgPiAxKQogIHsKICAgY2hvcmUgPSBybmQubmV4dEludCgpICUgNSArIDE7CiAgfQ==</text>
+        <text>setTimer();
+                turnOnLight();
+                turnOnTube();</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>chore = 0;</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text>chore = 0;</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text encoding="base64">IGNob3JlID0gMDs=</text>
       </register>
     </registers>
     <search>
