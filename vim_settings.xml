@@ -160,10 +160,10 @@
       <file name="$USER_HOME$/Desktop/tre/Data Structures/SE330Lab3-01-master/src/SE330/Text.txt" timestamp="1457627460177">
         <mark key="[" line="0" column="100" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/Lab 6/src/com/company/Microwave.java" timestamp="1469724323775">
-        <mark key="[" line="186" column="15" />
-        <mark key="]" line="186" column="15" />
-        <mark key="." line="186" column="15" />
+      <file name="$USER_HOME$/Desktop/tre/Lab 6/src/com/company/Microwave.java" timestamp="1469839867645">
+        <mark key="[" line="144" column="16" />
+        <mark key="]" line="144" column="16" />
+        <mark key="." line="144" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1468951145839">
         <mark key="[" line="0" column="0" />
@@ -205,7 +205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHlTdGF0ZSA9IElkbGVEb29yT3BlbjsKICAgICAgICAgICAgICAgIG9uRW50cnkoKTsKICAgICAgICAgICAgICAgIA==</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text />
@@ -217,37 +217,35 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHlTdGF0ZSA9IElkbGVEb29yT3BlbjsKICAgICAgICAgICAgICAgIG9uRW50cnkoKTsKICAgICAgICAgICAgICAgIA==</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text />
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG15U3RhdGUgPSBpZGxlOwogICAgICAgICAgICAgICAgb25FbnRyeSgpOwogICAgICAgICAgICAgICAg</text>
+        <text>/* case Extended:
+                myState = Interrupted;*/
+            onEntry();
+            break;</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text>myState = IdleDoorOpen;
+                onEntry();</text>
       </register>
-      <register name="5" type="4">
-        <text>switch(myState)
-        {
-            case
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2hvdWxkbid0IGdldCBoZXJlLCB0aGUgZG9vciBpcyBhbHJlYWR5IG9wZW5lZAo=</text>
       </register>
       <register name="6" type="4">
-        <text>Initial</text>
+        <text encoding="base64">IHlTdGF0ZSA9IElkbGVEb29yT3BlbjsKICAgICAgICAgICAgICAgIG9uRW50cnkoKTsKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="4">
-        <text>case Extended:
-                addMinuteToTimer();
-                break;</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>case Extended:
-                break;</text>
+        <text encoding="base64">IG15U3RhdGUgPSBpZGxlOwogICAgICAgICAgICAgICAgb25FbnRyeSgpOwogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHR1cm5PZmZMaWdodCgpOwogICAgICAgICAgICAgICAgY2xlYXJUaW1lcigpOwogICAgICAgICAgICAgICAg</text>
+        <text />
       </register>
     </registers>
     <search>
