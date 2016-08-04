@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="Hello World" type="CLASS" />
+      <mapping pattern="Triathlon" type="CLASS" />
       <mapping pattern="Sensor" type="CLASS" />
       <mapping pattern="Main" type="CLASS" />
       <mapping pattern="Microwave" type="CLASS" />
