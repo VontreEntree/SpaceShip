@@ -75,10 +75,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/Test/src/com/company/Ship.java" timestamp="1475619526327">
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test/src/com/company/Ship.java" timestamp="1475623620636">
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Cyclist.java" timestamp="1470344609102">
         <mark key="[" line="5" column="21" />
@@ -256,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tal</text>
+        <text>//ship is in bounds)</text>
       </register>
       <register name="-" type="4">
-        <text>tal</text>
+        <text>//ship is in bounds)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -268,18 +268,21 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text>tal</text>
+        <text>//ship is in bounds)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cyA=</text>
+        <text>tal</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="4" type="4">
-        <text>Square</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
       </register>
       <register name="5" type="4">
+        <text>Square</text>
+      </register>
+      <register name="6" type="4">
         <text>package com.company;
 
 public class Main {
@@ -289,19 +292,16 @@ public class Main {
     }
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>import java.beans.*;
 import java.awt.*;
 import java.awt.event.*;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>this.setLayout(new GridBagLayout());</text>
       </register>
-      <register name="8" type="4">
-        <text />
-      </register>
       <register name="9" type="4">
-        <text>(new Integer(Chat.chatRes.getString(&quot;InfoPanel scrollPane Height&quot;))).intValue();</text>
+        <text />
       </register>
     </registers>
     <search>
