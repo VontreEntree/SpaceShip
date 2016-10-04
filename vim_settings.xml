@@ -86,6 +86,11 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test/src/com/company/Main.java" timestamp="1475615783039">
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="104" column="34" />
+        <mark key="." line="104" column="34" />
+      </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/SLLNode.java" timestamp="1456422213744">
         <mark key="[" line="5" column="21" />
       </file>
@@ -253,12 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import java.beans.*;
-import java.awt.*;
-import java.awt.event.*;</text>
+        <text>Square</text>
       </register>
       <register name="-" type="4">
-        <text>this.setLayout(new GridBagLayout());</text>
+        <text>Square</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -267,33 +270,40 @@ import java.awt.event.*;</text>
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
+        <text>Square</text>
+      </register>
+      <register name="2" type="4">
+        <text>package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+    }
+}</text>
+      </register>
+      <register name="3" type="4">
         <text>import java.beans.*;
 import java.awt.*;
 import java.awt.event.*;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>this.setLayout(new GridBagLayout());</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>(new Integer(Chat.chatRes.getString(&quot;InfoPanel scrollPane Height&quot;))).intValue();</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFkZChzY3JvbGxQYW5lLCBuZXcgU2ltcGxlR3JpZEJhZ0NvbnN0cmFpbnRzKDAsMSwxLDEsMS4wLDEuMCwgR3JpZEJhZ0NvbnN0cmFpbnRzLkNFTlRFUiwgR3JpZEJhZ0NvbnN0cmFpbnRzLkJPVEgsbmV3IEluc2V0cygwLDYsNiw2KSwwLDApKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFkZChsYWJlbCwgbmV3IFNpbXBsZUdyaWRCYWdDb25zdHJhaW50cygwLDAsMSwxLDAuMCwwLjAsIEdyaWRCYWdDb25zdHJhaW50cy5DRU5URVIsIEdyaWRCYWdDb25zdHJhaW50cy5IT1JJWk9OVEFMLG5ldyBJbnNldHMoOSw2LDMsNiksMCwwKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgc2Nyb2xsUGFuZS5zZXRQcmVmZXJyZWRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOwogICAgICAgIHNjcm9sbFBhbmUuc2V0TWluaW11bVNpemUobmV3IERpbWVuc2lvbih3aWR0aCwgaGVpZ2h0KSk7CiAgICAgICAgc2Nyb2xsUGFuZS5zZXRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text>Chat.chatRes.getString(</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIENoYXRSb29tVXNlclRhYmxlIHVzZXJUYWJsZSA9IG5ldyBDaGF0Um9vbVVzZXJUYWJsZSgpOwogICAgSlNjcm9sbFBhbmUgc2Nyb2xsUGFuZSA9IG5ldyBKU2Nyb2xsUGFuZSh1c2VyVGFibGUpOw==</text>
+        <text encoding="base64">ICAgICAgc2Nyb2xsUGFuZS5zZXRQcmVmZXJyZWRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOwogICAgICAgIHNjcm9sbFBhbmUuc2V0TWluaW11bVNpemUobmV3IERpbWVuc2lvbih3aWR0aCwgaGVpZ2h0KSk7CiAgICAgICAgc2Nyb2xsUGFuZS5zZXRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOw==</text>
       </register>
     </registers>
     <search>
