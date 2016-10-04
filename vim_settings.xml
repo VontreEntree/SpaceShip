@@ -27,9 +27,6 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Jane.java" timestamp="1468991034710">
-        <mark key="^" line="98" column="4" />
-      </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/BST.java" timestamp="1457460596394">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -64,8 +61,20 @@
       <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Paul.java" timestamp="1468965908172">
         <mark key="[" line="78" column="39" />
       </file>
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Sensor.java" timestamp="1468345476226">
+        <mark key="'" line="112" column="33" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+      </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Player.java" timestamp="1475591082266">
         <mark key="[" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/GyroScope.java" timestamp="1468341868444">
+        <mark key="'" line="42" column="47" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Cyclist.java" timestamp="1470344609102">
         <mark key="[" line="5" column="21" />
@@ -89,10 +98,22 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/Accelerator.java" timestamp="1468341307478">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/LawnMowing.java" timestamp="1468951767836">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tre/OOM/src/com/company/StarLoc.java" timestamp="1468341423395">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Runner.java" timestamp="1470344588282">
         <mark key="[" line="5" column="20" />
@@ -114,11 +135,16 @@
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Swimmer.java" timestamp="1470344634997">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" timestamp="1475610486368">
-        <mark key="'" line="101" column="28" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ButtonPressed.java" timestamp="1475611990879">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" timestamp="1475612104169">
+        <mark key="'" line="100" column="28" />
+        <mark key="[" line="100" column="34" />
+        <mark key="]" line="100" column="34" />
+        <mark key="." line="100" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Cruiser.java" timestamp="1475592182246">
         <mark key="[" line="5" column="20" />
@@ -135,8 +161,10 @@
       <file name="/Dummy.txt" timestamp="1457629257642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ExitGame.java" timestamp="1475604740408">
-        <mark key="[" line="23" column="22" />
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ExitGame.java" timestamp="1475611028408">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/LinenumList.java" timestamp="1457461327052">
         <mark key="[" line="19" column="0" />
@@ -148,6 +176,12 @@
         <mark key="[" line="75" column="39" />
         <mark key="]" line="55" column="32" />
         <mark key="." line="55" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/InfoPanel.java" timestamp="1475612474290">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/src/com/company/Word.java" timestamp="1457460098264">
         <mark key="[" line="0" column="0" />
@@ -216,13 +250,16 @@
       <jump line="55" column="38" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Jack.java" />
       <jump line="61" column="32" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Mary.java" />
       <jump line="103" column="28" filename="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/Desktop/School/SW Testing/src/com/company/InfoPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SquareP</text>
+        <text>import java.beans.*;
+import java.awt.*;
+import java.awt.event.*;</text>
       </register>
       <register name="-" type="4">
-        <text>SquareP</text>
+        <text>this.setLayout(new GridBagLayout());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -231,39 +268,33 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text>SquareP</text>
+        <text>import java.beans.*;
+import java.awt.*;
+import java.awt.event.*;</text>
       </register>
       <register name="2" type="4">
-        <text>setL</text>
+        <text>this.setLayout(new GridBagLayout());</text>
       </register>
       <register name="3" type="4">
-        <text>(WindowConstants.</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>w</text>
+        <text>(new Integer(Chat.chatRes.getString(&quot;InfoPanel scrollPane Height&quot;))).intValue();</text>
       </register>
-      <register name="5" type="4">
-        <text>widt]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZChzY3JvbGxQYW5lLCBuZXcgU2ltcGxlR3JpZEJhZ0NvbnN0cmFpbnRzKDAsMSwxLDEsMS4wLDEuMCwgR3JpZEJhZ0NvbnN0cmFpbnRzLkNFTlRFUiwgR3JpZEJhZ0NvbnN0cmFpbnRzLkJPVEgsbmV3IEluc2V0cygwLDYsNiw2KSwwLDApKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>int length = 10;
-    int width = 10;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZChsYWJlbCwgbmV3IFNpbXBsZUdyaWRCYWdDb25zdHJhaW50cygwLDAsMSwxLDAuMCwwLjAsIEdyaWRCYWdDb25zdHJhaW50cy5DRU5URVIsIEdyaWRCYWdDb25zdHJhaW50cy5IT1JJWk9OVEFMLG5ldyBJbnNldHMoOSw2LDMsNiksMCwwKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text encoding="base64">ICAgICAgc2Nyb2xsUGFuZS5zZXRQcmVmZXJyZWRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOwogICAgICAgIHNjcm9sbFBhbmUuc2V0TWluaW11bVNpemUobmV3IERpbWVuc2lvbih3aWR0aCwgaGVpZ2h0KSk7CiAgICAgICAgc2Nyb2xsUGFuZS5zZXRTaXplKG5ldyBEaW1lbnNpb24od2lkdGgsIGhlaWdodCkpOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CmltcG9ydCBqYXZhLmF3dC4qOwppbXBvcnQgamF2YS5hd3QuZXZlbnQuKjsKaW1wb3J0IGphdmF4LnN3aW5nLio7CmltcG9ydCBqYXZheC5zd2luZy5ib3JkZXIuKjsKaW1wb3J0IGphdmEuaW8uKjsKaW1wb3J0IGphdmEubGFuZy5JbnRlZ2VyOwppbXBvcnQgamF2YS51dGlsLlZlY3RvcjsKaW1wb3J0IGphdmEubmV0Lio7</text>
+        <text>Chat.chatRes.getString(</text>
       </register>
       <register name="9" type="4">
-        <text>import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import javax.swing.border.*;
-import java.io.*;
-import java.lang.Integer;
-import java.util.Vector;
-import java.net.*;</text>
+        <text encoding="base64">ICAgIENoYXRSb29tVXNlclRhYmxlIHVzZXJUYWJsZSA9IG5ldyBDaGF0Um9vbVVzZXJUYWJsZSgpOwogICAgSlNjcm9sbFBhbmUgc2Nyb2xsUGFuZSA9IG5ldyBKU2Nyb2xsUGFuZSh1c2VyVGFibGUpOw==</text>
       </register>
     </registers>
     <search>
