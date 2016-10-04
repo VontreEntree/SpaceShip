@@ -114,10 +114,10 @@
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Swimmer.java" timestamp="1470344634997">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" timestamp="1475594257403">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" timestamp="1475603330132">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Cruiser.java" timestamp="1475592182246">
         <mark key="[" line="5" column="20" />
@@ -152,6 +152,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Destroyer.java" timestamp="1475592268952">
         <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Main.java" timestamp="1475602375589">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Battleship.java" timestamp="1475592145087">
         <mark key="[" line="5" column="24" />
@@ -209,17 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import javax.swing.border.*;
-import java.io.*;
-import java.lang.Integer;
-import java.util.Vector;
-import java.net.*;</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>//Ships ship3</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -228,6 +226,22 @@ import java.net.*;</text>
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
+        <text>w</text>
+      </register>
+      <register name="2" type="4">
+        <text>widt]</text>
+      </register>
+      <register name="3" type="4">
+        <text>int length = 10;
+    int width = 10;</text>
+      </register>
+      <register name="4" type="4">
+        <text>g</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmltcG9ydCBqYXZhLmF3dC4qOwppbXBvcnQgamF2YS5hd3QuZXZlbnQuKjsKaW1wb3J0IGphdmF4LnN3aW5nLio7CmltcG9ydCBqYXZheC5zd2luZy5ib3JkZXIuKjsKaW1wb3J0IGphdmEuaW8uKjsKaW1wb3J0IGphdmEubGFuZy5JbnRlZ2VyOwppbXBvcnQgamF2YS51dGlsLlZlY3RvcjsKaW1wb3J0IGphdmEubmV0Lio7</text>
+      </register>
+      <register name="6" type="4">
         <text>import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -237,29 +251,14 @@ import java.lang.Integer;
 import java.util.Vector;
 import java.net.*;</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vU2hpcHMgc2hpcDUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>//Ships ship3</text>
       </register>
-      <register name="4" type="4">
-        <text />
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vU2hpcHMgc2hpcDEK</text>
-      </register>
-      <register name="6" type="4">
-        <text>String tri;</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
-      <register name="8" type="4">
-        <text>Swimmer</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBTdHJpbmcgc2tpbGwgPSAiIjsKICAgIFN0cmluZyBuYW1lID0gIiI7CiAgICBTdHJpbmcgY291bnRyeSA9ICIiOwogICAgU3RyaW5nIGJkeVR5cGUgPSAiIjsKICAgIGludCB5cnNPZkV4cCA9IDA7CiAgICBpbnQgd2VpZ2h0ID0gMDsKICAgIGludCBoZWlnaHRDTSA9IDA7</text>
+        <text />
       </register>
     </registers>
     <search>
