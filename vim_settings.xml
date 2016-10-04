@@ -208,8 +208,15 @@
       <jump line="61" column="32" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Mary.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vU2hpcHMgc2hpcDUK</text>
+      <register name="&quot;" type="4">
+        <text>import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.border.*;
+import java.io.*;
+import java.lang.Integer;
+import java.util.Vector;
+import java.net.*;</text>
       </register>
       <register name="-" type="4">
         <text>//Ships ship3</text>
@@ -220,32 +227,39 @@
       <register name="0" type="4">
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.border.*;
+import java.io.*;
+import java.lang.Integer;
+import java.util.Vector;
+import java.net.*;</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIC8vU2hpcHMgc2hpcDUK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>//Ships ship3</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vU2hpcHMgc2hpcDEK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>String tri;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Swimmer</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBTdHJpbmcgc2tpbGwgPSAiIjsKICAgIFN0cmluZyBuYW1lID0gIiI7CiAgICBTdHJpbmcgY291bnRyeSA9ICIiOwogICAgU3RyaW5nIGJkeVR5cGUgPSAiIjsKICAgIGludCB5cnNPZkV4cCA9IDA7CiAgICBpbnQgd2VpZ2h0ID0gMDsKICAgIGludCBoZWlnaHRDTSA9IDA7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICB7CiAgICAgICAgCiAgICB9</text>
+        <text encoding="base64">ICBTdHJpbmcgc2tpbGwgPSAiIjsKICAgIFN0cmluZyBuYW1lID0gIiI7CiAgICBTdHJpbmcgY291bnRyeSA9ICIiOwogICAgU3RyaW5nIGJkeVR5cGUgPSAiIjsKICAgIGludCB5cnNPZkV4cCA9IDA7CiAgICBpbnQgd2VpZ2h0ID0gMDsKICAgIGludCBoZWlnaHRDTSA9IDA7</text>
       </register>
     </registers>
     <search>
