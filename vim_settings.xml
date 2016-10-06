@@ -5,7 +5,7 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" timestamp="1475717703293">
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" timestamp="1475764696666">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -33,6 +33,9 @@
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Grid.java" timestamp="1475764650057">
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/FinalExamJava/src/com/company/Runner.java" timestamp="1470344588282">
         <mark key="[" line="5" column="20" />
@@ -86,6 +89,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1457629257642">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Ships.java" timestamp="1475765476549">
+        <mark key="[" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ExitGame.java" timestamp="1475611028408">
         <mark key="[" line="0" column="20" />
@@ -200,12 +206,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public class Main {
-
-    public static void main(String[] args) {
-	// write your code here
-    }
-}</text>
+        <text>import java.util.Random;
+import java.util.Scanner;</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -217,6 +219,13 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
+        <text>import java.util.Random;
+import java.util.Scanner;</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U2hpcHMoaW50W11bXSBzaGlwcywgaW50W11bXSBib2FyZCl7CiAgICAgICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKCiAgICAgICAgZm9yKGludCBzaGlwPTAgOyBzaGlwIDwgNSA7IHNoaXArKyl7CiAgICAgICAgICAgIHNoaXBzW3NoaXBdWzBdPXJhbmRvbS5uZXh0SW50KDEwKTsKICAgICAgICAgICAgc2hpcHNbc2hpcF1bMV09cmFuZG9tLm5leHRJbnQoMTApOwoKICAgICAgICAgICAgLy9sZXQncyBjaGVjayBpZiB0aGF0IHNob3Qgd2FzIGFscmVhZHkgdHJpZWQKICAgICAgICAgICAgLy9pZiBpdCB3YXMsIGp1c3QgZmluaXNoIHRoZSBkby4uLndoaWxlIHdoZW4gYSBuZXcgcGFpciB3YXMgcmFuZG9tbHkgc2VsZWN0ZWQKICAgICAgICAgICAgZm9yKGludCBsYXN0PTAgOyBsYXN0IDwgc2hpcCA7IGxhc3QrKyl7CiAgICAgICAgICAgICAgICBpZiggKHNoaXBzW3NoaXBdWzBdID09IHNoaXBzW2xhc3RdWzBdKSYmKHNoaXBzW3NoaXBdWzFdID09IHNoaXBzW2xhc3RdWzFdKSApCiAgICAgICAgICAgICAgICAgICAgZG97CiAgICAgICAgICAgICAgICAgICAgICAgIHNoaXBzW3NoaXBdWzBdPXJhbmRvbS5uZXh0SW50KDEwKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2hpcHNbc2hpcF1bMV09cmFuZG9tLm5leHRJbnQoMTApOwogICAgICAgICAgICAgICAgICAgIH13aGlsZSggKHNoaXBzW3NoaXBdWzBdID09IHNoaXBzW2xhc3RdWzBdKSYmKHNoaXBzW3NoaXBdWzFdID09IHNoaXBzW2xhc3RdWzFdKSApOwogICAgICAgICAgICB9CgogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgcGxheWVyU2hvb3QoaW50W10gc2hvb3QpewogICAgICAgIFNjYW5uZXIgaW5wdXQgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJSb3c6ICIpOwogICAgICAgIHNob290WzBdID0gaW5wdXQubmV4dEludCgpOwogICAgICAgIHNob290WzBdLS07CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIkNvbHVtbjogIik7CiAgICAgICAgc2hvb3RbMV0gPSBpbnB1dC5uZXh0SW50KCk7CiAgICAgICAgc2hvb3RbMV0tLTsKCiAgICB9CgogICAgcHVibGljIHN0YXRpYyBib29sZWFuIGhpdChpbnRbXSBzaG9vdCwgaW50W11bXSBzaGlwcyl7CgogICAgICAgIGZvcihpbnQgc2hpcD0wIDsgc2hpcDxzaGlwcy5sZW5ndGggOyBzaGlwKyspewogICAgICAgICAgICBpZiggc2hvb3RbMF09PXNoaXBzW3NoaXBdWzBdICYmIHNob290WzFdPT1zaGlwc1tzaGlwXVsxXSl7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiWW91IGhpdCBhIHNoaXAgbG9jYXRlZCBpbiAoJWQsJWQpXG4iLHNob290WzBdKzEsc2hvb3RbMV0rMSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
+      </register>
+      <register name="3" type="4">
         <text>public class Main {
 
     public static void main(String[] args) {
@@ -224,36 +233,23 @@
     }
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>e</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>g</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
-      </register>
-      <register name="5" type="4">
-        <text>k</text>
-      </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>k</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>com.company;
-
-public class Main {
-
-    public static void main(String[] args) {
-	// write your code here
-    }
-}</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
