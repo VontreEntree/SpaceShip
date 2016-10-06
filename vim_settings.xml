@@ -5,6 +5,11 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" timestamp="1475716165138">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
       </file>
@@ -191,13 +196,19 @@
       <jump line="61" column="32" filename="$USER_HOME$/Desktop/tre/OOM/src/com/company/Mary.java" />
       <jump line="103" column="28" filename="$USER_HOME$/Desktop/School/SW Testing/src/com/company/Grid.java" />
       <jump line="19" column="23" filename="$USER_HOME$/Desktop/School/SW Testing/src/com/company/InfoPanel.java" />
+      <jump line="4" column="23" filename="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09IGxlbmd0aA==</text>
+        <text>public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+    }
+}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IGxlbmd0aA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -206,25 +217,36 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ID09IGxlbmd0aA==</text>
+        <text>public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+    }
+}</text>
       </register>
       <register name="2" type="4">
-        <text>//ship is in bounds)</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>tal</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cyA=</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
+        <text>k</text>
       </register>
       <register name="6" type="4">
-        <text>Square</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>package com.company;
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>p</text>
+      </register>
+      <register name="9" type="4">
+        <text>com.company;
 
 public class Main {
 
@@ -232,14 +254,6 @@ public class Main {
 	// write your code here
     }
 }</text>
-      </register>
-      <register name="8" type="4">
-        <text>import java.beans.*;
-import java.awt.*;
-import java.awt.event.*;</text>
-      </register>
-      <register name="9" type="4">
-        <text>this.setLayout(new GridBagLayout());</text>
       </register>
     </registers>
     <search>
