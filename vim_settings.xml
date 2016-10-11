@@ -5,8 +5,11 @@
       <mark key="I" line="35" column="33" filename="$USER_HOME$/Desktop/tre/Project 1/src/com/company/Student.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" timestamp="1476195895071">
-        <mark key="'" line="49" column="69" />
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Main.java" timestamp="1476199157188">
+        <mark key="'" line="50" column="69" />
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/tre/Data Structures/WordsInLines/src/SE330/Word.java" timestamp="1457459266570">
         <mark key="[" line="8" column="32" />
@@ -89,11 +92,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1457629257642">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Ships.java" timestamp="1476196674721">
-        <mark key="[" line="54" column="47" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ExitGame.java" timestamp="1475611028408">
         <mark key="[" line="0" column="20" />
@@ -209,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if(shotHit_1 == )</text>
+        <text encoding="base64">PjA=</text>
       </register>
       <register name="-" type="4">
-        <text>if(shotHit_1 == )</text>
+        <text encoding="base64">PjA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwuXD4=</text>
@@ -221,31 +219,35 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text>if(shotHit_1 == )</text>
+        <text encoding="base64">PjA=</text>
       </register>
       <register name="2" type="4">
-        <text>10</text>
+        <text>if(hit(shoot,ships, board_2)) {
+            board_2[shoot[0]][shoot[1]] = 1;
+        }
+        else
+            board_2[shoot[0]][shoot[1]]=0;</text>
       </register>
       <register name="3" type="4">
-        <text>10</text>
+        <text>, int[][] board_2</text>
       </register>
       <register name="4" type="4">
-        <text>10</text>
+        <text>, board_1</text>
       </register>
       <register name="5" type="4">
-        <text>You</text>
+        <text>5</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IEphdmEg</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IEphdmEg</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>random.nextInt(10)</text>
+        <text encoding="base64">fXdoaWxlKHNob290WzBdPXZlY18xLmNvbnRhaW5zKHNob290WzBdKSYmdmVjXzIuY29udGFpbnMoc2hvb3RbMV0pPSBzaG9vdFsxXSk7</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGlmKGkgPT0gMik=</text>
+        <text>if(shotHit_1 == )</text>
       </register>
     </registers>
     <search>
