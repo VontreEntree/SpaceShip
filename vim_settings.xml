@@ -93,11 +93,11 @@
       <file name="/Dummy.txt" timestamp="1457629257642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Ships.java" timestamp="1476505142983">
+      <file name="$USER_HOME$/Desktop/School/SW Testing/Test2/src/com/company/Ships.java" timestamp="1476506482836">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="109" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+        <mark key="[" line="120" column="15" />
+        <mark key="]" line="120" column="15" />
+        <mark key="." line="120" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/School/SW Testing/src/com/company/ExitGame.java" timestamp="1475611028408">
         <mark key="[" line="0" column="20" />
@@ -214,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Number</text>
+        <text>shoot[0] != input.nextInt()</text>
       </register>
       <register name="-" type="4">
-        <text>Number</text>
+        <text>shoot[0] != input.nextInt()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
@@ -226,35 +226,35 @@
         <text encoding="base64">CiBwdWJsaWMgdm9pZCBtb3dUaGVMYXduKCkgewogIGlmKHNjaGVkdWxlID09ICJGdWxsIikKICB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiU29ycnkgTXkgYWdlbmRhIGlzIGZ1bGwsIHRyeSBhc2tpbmcgc29tZW9uZSBlbHNlLg==</text>
       </register>
       <register name="1" type="4">
-        <text>Number</text>
+        <text>shoot[0] != input.nextInt()</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IFN0cmluZyBzaGlwTmFtZSwgaW50IHNoaXBTaXpl</text>
+        <text>Number</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIHNoaXBMZW5ndGgoaW50IGNvdW50KQogICAgewogICAgICAgIGlmKGNvdW50ID09IDEpCiAgICAgICAgewoKICAgICAgICB9CiAgICB9</text>
+        <text encoding="base64">IFN0cmluZyBzaGlwTmFtZSwgaW50IHNoaXBTaXpl</text>
       </register>
       <register name="4" type="4">
-        <text>vec_2.addElement(shoot[1]);</text>
+        <text encoding="base64">IHB1YmxpYyB2b2lkIHNoaXBMZW5ndGgoaW50IGNvdW50KQogICAgewogICAgICAgIGlmKGNvdW50ID09IDEpCiAgICAgICAgewoKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text>new int[(shoot[0],sh][];</text>
+        <text>vec_2.addElement(shoot[1]);</text>
       </register>
       <register name="6" type="4">
-        <text>/*</text>
+        <text>new int[(shoot[0],sh][];</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PjA=</text>
+        <text>/*</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">PjA=</text>
+      </register>
+      <register name="9" type="4">
         <text>if(hit(shoot,ships, board_2)) {
             board_2[shoot[0]][shoot[1]] = 1;
         }
         else
             board_2[shoot[0]][shoot[1]]=0;</text>
-      </register>
-      <register name="9" type="4">
-        <text>, int[][] board_2</text>
       </register>
     </registers>
     <search>
